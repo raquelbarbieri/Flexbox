@@ -2,50 +2,28 @@
 
 Criação de layout responsivo, sem a necessidade de setar cada um dos valores 
 
-1. Introdução ao Flexbox
+### Anotações sobre flexbox
 
-   - Estrutura básica
-     - É composta por containers e filhos 
-     - Container serve para você guardar algo dentro. É o elemento inicial
-     - Dentro desse container, você pode guardar filhos 
-     - Os filhos são qualquer coisa dentro do container 
+- Introdução ao flexbox
+- Fundamentos do flexbox
 
-2. Fundamentos do Flexbox
+### Arquivos usando flexbox
 
-   Display Flex
+1.display-flex
 
-   Flex-direction
+2.flex-direction
 
-   - Horizontal:
+3.flex wrap
 
-     - Row (padrão): da esquerda para a direita
+4.flex-flow
 
-     - Row-reverse: é o oposto do anterior
+5.justify-content
 
-   - Vertical:
+6.align-items
 
-     - Column: ordenado de cima pra baixo
+7.align-content
 
-     - Column-reverse: é o oposto do anterior
+​	
 
-   Flex-wrap
-
-   - define se os itens devem ou não quebrar as linhas
-
-     - nowrap: padrão, não permite a quebra de linha 
-
-     - wrap: permite a quebra de linha assim que o item não couber no container, jogando o item para a linha abaixo
-     - wrap-reverse: permite a quebra de linha, mas no sentido contrário, ou seja, joga o item para a linha acima
-
-   Flex-flow
-
-   - é um atalho para flex-direction e flex-wrap
-
-3. 
-
-
-
-
-
-
+### 
 
